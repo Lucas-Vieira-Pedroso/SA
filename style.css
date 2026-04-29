@@ -5,3 +5,7 @@
 .center{
     justify-items: center;
 }
+
+body{
+    background-color: rgb(65, 139, 235);
+}
