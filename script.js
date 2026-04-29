@@ -14,10 +14,6 @@ document.getElementById("megaman").addEventListener("submit", function (e) {
 
     }
 
-<<<<<<< HEAD
-let usuario = document.getElementById("usuario").value;
-=======
->>>>>>> 6fde5165c0eeb92fa013643d41433b6505d3d4cf
 
 })
 
