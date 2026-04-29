@@ -7,11 +7,9 @@ document.getElementById("megaman").addEventListener("submit", function (e) {
     let senha = document.getElementById("senha").value;
 
     if (usuario === "man" && senha === "1982") {
-        alert("ta certo");
+         window.location.href = "home.html";
     } else {
         alert("ta errado");
-        window.location.href = "home.html";
-
     }
 
 

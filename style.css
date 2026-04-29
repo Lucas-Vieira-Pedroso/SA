@@ -3,17 +3,26 @@
     height: 50px;
 }
 .center{
-    align-content: center;
+    justify-items: center;
 }
 
 body{
     background-color: rgb(65, 139, 235);
 }
 .white{
-    padding: 5px;
-    background-color: aliceblue;
-    border-radius: 5px;
+    padding: 50px;
+    background-color: rgb(28, 68, 119);
+    border-radius: 10px;
+    margin-inline-start: 720px;
+    margin-inline-end: 720px;
 }
 .flex_end{
    justify-content: end;
+}
+.linha{
+    color: white;
+    justify-items: center;
+}
+.padding{
+    padding: 30px;
 }
