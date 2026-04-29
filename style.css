@@ -13,6 +13,7 @@ body{
     padding: 5px;
     background-color: aliceblue;
     border-radius: 5px;
-    display: inline;
 }
-
+.flex_end{
+   justify-items: flex-end;
+}
