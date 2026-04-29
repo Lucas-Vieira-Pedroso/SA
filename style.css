@@ -15,5 +15,5 @@ body{
     border-radius: 5px;
 }
 .flex_end{
-   justify-items: flex-end;
+   justify-content: end;
 }
