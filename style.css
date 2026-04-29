@@ -3,9 +3,15 @@
     height: 50px;
 }
 .center{
-    justify-content: center;
+    align-content: center;
 }
 
 body{
     background-color: rgb(65, 139, 235);
+}
+.white{
+    padding: 5px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    display: inline;
 }
